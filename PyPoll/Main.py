@@ -3,7 +3,7 @@ import os
 import csv
 
 #Path to csv data file
-PyPoll_file_path = os.path.join("..", "Resources", "election_data.csv")
+PyPoll_file_path = os.path.join("Resources", "election_data.csv")
 
 #Declaring global variables
 candidates = []
